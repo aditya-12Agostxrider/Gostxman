@@ -1,0 +1,51 @@
+customer_id,customer_name,customer_age,age_group,gender,customer_segment,customer_city,customer_state,customer_country,region,customer_postal_code,customer_acquisition_cost,is_active_shopper
+CUST-000001,Donna Miller,54,45-54,Female,Consumer,Laurenland,Dubai,UAE,South,11253,13.58,0
+CUST-000002,Joseph James,61,55-64,Male,Consumer,Lake Peter,Lower Saxony,Germany,North,47778,27.45,0
+CUST-000003,Daniel Smith,47,45-54,Male,Consumer,Seanview,North Rhine,Germany,West,13900,31.53,0
+CUST-000004,David Lopez,30,25-34,Male,VIP,Hawkinshaven,Pennsylvania,USA,East,53984,16.02,0
+CUST-000005,Dakota Davis,55,55-64,Female,Consumer,New Carlymouth,Florida,USA,South,50994,41.34,0
+CUST-000006,Alexander Gutierrez,72,65+,Female,Consumer,Lake Rachelbury,Scotland,UK,North,75468,40.89,0
+CUST-000007,Adriana Jennings,27,25-34,Female,Premium,East Joseph,New York,USA,East,35681,25.52,0
+CUST-000008,Trevor Brown,40,35-44,Male,Consumer,Hillport,Illinois,USA,Central,63970,66.68,0
+CUST-000009,Kirsten Ward,59,55-64,Male,Consumer,Lake Colleen,Michigan,USA,Central,78332,31.03,0
+CUST-000010,Christina Ellis,35,35-44,Female,VIP,West Adam,Lower Saxony,Germany,North,52365,28.54,0
+CUST-000011,Martin Oliver,72,65+,Female,VIP,Scottchester,Sharjah,UAE,North,85833,32.86,0
+CUST-000012,Terri Taylor,44,35-44,Female,Premium,Carrieborough,Illinois,USA,Central,63285,46.97,0
+CUST-000013,Leon Oconnell,55,55-64,Female,VIP,Kellyfort,North Carolina,USA,South,75982,35.51,0
+CUST-000014,Kimberly Nguyen,72,65+,Female,Consumer,Lisafurt,Pennsylvania,USA,East,48344,72.75,0
+CUST-000015,Daniel Elliott,62,55-64,Female,Premium,Lake Katrina,Illinois,USA,Central,4028,48.45,0
+CUST-000016,Stephanie Murray,43,35-44,Female,Business,South Lauren,North Carolina,USA,South,91312,74.92,0
+CUST-000017,Chad Abbott,30,25-34,Female,Premium,Chambersberg,New York,USA,East,83513,18.9,0
+CUST-000018,Kevin King,47,45-54,Female,Consumer,Lake Rodney,North Carolina,USA,South,49913,72.74,0
+CUST-000019,Charles Ewing,49,45-54,Female,Premium,Aguilarside,Maharashtra,India,West,66903,15.73,0
+CUST-000020,Sandra Kane,31,25-34,Male,VIP,Stephensstad,Karnataka,India,South,92465,30.31,0
+CUST-000021,Paula Herrera,48,45-54,Female,Business,North Kaylastad,Ohio,USA,Central,22303,6.89,0
+CUST-000022,Deborah Williams,48,45-54,Male,Consumer,Rasmussenmouth,Alberta,Canada,Central,56921,24.74,0
+CUST-000023,Daniel Garcia,30,25-34,Female,Consumer,New Julie,Wales,UK,West,73638,33.24,0
+CUST-000024,Beverly Johnston,34,25-34,Male,Consumer,Brooksmouth,New York,USA,East,89571,12.03,0
+CUST-000025,Brianna Mason,25,25-34,Female,Consumer,Whitneyfort,Georgia,USA,South,14204,20.57,0
+CUST-000026,Kenneth Knapp,43,35-44,Female,Consumer,North Marieberg,Florida,USA,South,46157,62.94,0
+CUST-000027,Larry Gibson,33,25-34,Female,Consumer,New Timothy,North Rhine,Germany,West,62912,57.81,0
+CUST-000028,Connor Bowen,30,25-34,Female,VIP,Floresport,California,USA,West,6357,17.8,0
+CUST-000029,Lisa Wilson,38,35-44,Female,Premium,Deborahburgh,Pennsylvania,USA,East,97558,22.01,0
+CUST-000030,John Thompson,32,25-34,Female,Consumer,West Anita,North Carolina,USA,South,61063,8.77,0
+CUST-000031,Jesse Sullivan,69,65+,Male,Business,East Danielle,Quebec,Canada,East,57141,79.73,0
+CUST-000032,Randall Mclaughlin,61,55-64,Male,Consumer,South Brittany,Florida,USA,South,51466,8.72,0
+CUST-000033,Adam Lewis,50,45-54,Female,Consumer,Karenland,Victoria,Australia,South,76175,74.18,0
+CUST-000034,Cristian Wiggins,29,25-34,Male,Consumer,West Mark,Bavaria,Germany,South,60473,61.31,0
+CUST-000035,Daniel Lambert,60,55-64,Female,Premium,Rosemouth,Ohio,USA,Central,78747,69.24,0
+CUST-000036,Paul Long,57,55-64,Female,Consumer,West Michaelmouth,North Carolina,USA,South,81419,6.44,0
+CUST-000037,Gerald Nunez,68,65+,Female,Consumer,Samanthashire,Bavaria,Germany,South,11609,30.88,0
+CUST-000038,Emily Edwards,66,65+,Male,Consumer,West Daryl,Pennsylvania,USA,East,49430,52.78,0
+CUST-000039,Heather Dixon,34,25-34,Female,Consumer,Carlsonshire,Michigan,USA,Central,50794,51.47,0
+CUST-000040,Rodney Tucker,54,45-54,Female,Consumer,New Garrett,England,UK,North,38359,26.12,0
+CUST-000041,Donald Edwards,30,25-34,Male,Premium,Harveystad,Scotland,UK,North,1757,51.7,0
+CUST-000042,Todd Lee,63,55-64,Female,Consumer,Maynardhaven,Florida,USA,South,86100,28.49,0
+CUST-000043,Troy Cohen,45,45-54,Male,VIP,Mckinneymouth,Illinois,USA,Central,64555,75.16,0
+CUST-000044,Gary Cunningham,25,25-34,Female,Consumer,West Antonio,Florida,USA,South,29971,17.37,0
+CUST-000045,Amanda Jackson,64,55-64,Male,Consumer,Cunninghamfort,Texas,USA,South,72554,77.61,0
+CUST-000046,William Armstrong,42,35-44,Female,Consumer,Kimberlystad,Florida,USA,South,71547,9.51,0
+CUST-000047,Lynn Williams,26,25-34,Female,Premium,Paynechester,North Rhine,Germany,West,13924,72.83,0
+CUST-000048,Jill Valdez,22,<25,Male,Premium,West Nancy,Uttar Pradesh,India,North,4725,39.68,0
+CUST-000049,Shannon Bailey,58,55-64,Female,Consumer,South Michelleville,Ohio,USA,Central,31557,71.34,0
+CUST-000050,Jason Rojas,37,35-44,Female,Consumer,Michellechester,Pennsylvania,USA,East,22256,13.03,0
